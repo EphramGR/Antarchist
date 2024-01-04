@@ -1,0 +1,6042 @@
+{
+    "0,0": {
+        "socketTypes": [
+            "y|r",
+            "r|Y|b",
+            "b",
+            "y|R|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "0,1": {
+        "socketTypes": [
+            "y|r",
+            "r|Y|b",
+            "r|b",
+            "y|RR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "0,2": {
+        "socketTypes": [
+            "y|r",
+            "r|YY",
+            "r|y",
+            "y|RR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "0,3": {
+        "socketTypes": [
+            "y|b",
+            "b|yy",
+            "r|y",
+            "y|RR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "0,4": {
+        "socketTypes": [
+            "b",
+            "b|Y|b",
+            "b",
+            "b|R|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "0,5": {
+        "socketTypes": [
+            "b",
+            "b|Y|b",
+            "r|b",
+            "b|RR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "0,6": {
+        "socketTypes": [
+            "b",
+            "b|YY",
+            "r|y",
+            "b|RR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "0,7": {
+        "socketTypes": [
+            "b",
+            "b|yy",
+            "r|y",
+            "b|RR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "0,9": {
+        "socketTypes": [
+            "b",
+            "bb|y",
+            "r|y",
+            "bb|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "0,10": {
+        "socketTypes": [
+            "b",
+            "bb|y",
+            "r|y",
+            "bb|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "0,11": {
+        "socketTypes": [
+            "b",
+            "bb|Y",
+            "r|y",
+            "bb|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "0,12": {
+        "socketTypes": [
+            "b",
+            "b|R|b",
+            "r|b",
+            "b|y|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "0,13": {
+        "socketTypes": [
+            "b",
+            "b|R|b",
+            "r|b",
+            "b|Y|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "0,14": {
+        "socketTypes": [
+            "b",
+            "b|r|b",
+            "r|b",
+            "b|Y|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "0,15": {
+        "socketTypes": [
+            "b",
+            "b|r|b",
+            "r|b",
+            "b|y|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "0,16": {
+        "socketTypes": [
+            "b",
+            "b|R|b",
+            "r|b",
+            "b|y|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "0,17": {
+        "socketTypes": [
+            "b",
+            "b|R|b",
+            "r|b",
+            "b|Y|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "0,18": {
+        "socketTypes": [
+            "b",
+            "b|r|b",
+            "r|b",
+            "b|Y|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "0,19": {
+        "socketTypes": [
+            "b",
+            "b|r|b",
+            "r|b",
+            "b|y|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "1,0": {
+        "socketTypes": [
+            "y|r",
+            "r|Y|b",
+            "b",
+            "y|r|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "1,1": {
+        "socketTypes": [
+            "y|r",
+            "r|Y|b",
+            "r|b",
+            "y|rr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "1,2": {
+        "socketTypes": [
+            "y|r",
+            "r|YY",
+            "r|y",
+            "y|rr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "1,3": {
+        "socketTypes": [
+            "y|b",
+            "b|yy",
+            "r|y",
+            "y|rr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "1,4": {
+        "socketTypes": [
+            "b",
+            "b|Y|b",
+            "b",
+            "b|r|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "1,5": {
+        "socketTypes": [
+            "b",
+            "b|Y|b",
+            "r|b",
+            "b|rr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "1,6": {
+        "socketTypes": [
+            "b",
+            "b|YY",
+            "r|y",
+            "b|rr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "1,7": {
+        "socketTypes": [
+            "b",
+            "b|yy",
+            "r|y",
+            "b|rr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "1,8": {
+        "socketTypes": [
+            "b",
+            "bb|Y",
+            "r|y",
+            "bb|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "1,9": {
+        "socketTypes": [
+            "b",
+            "bb|y",
+            "r|y",
+            "bb|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "1,11": {
+        "socketTypes": [
+            "b",
+            "bb|y",
+            "r|y",
+            "bb|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "1,12": {
+        "socketTypes": [
+            "r|b",
+            "b|r|Y",
+            "r|y",
+            "r|b|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "1,13": {
+        "socketTypes": [
+            "r|b",
+            "b|r|y",
+            "r|y",
+            "r|b|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "1,14": {
+        "socketTypes": [
+            "r|b",
+            "b|R|y",
+            "r|y",
+            "r|b|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "1,15": {
+        "socketTypes": [
+            "r|b",
+            "b|R|Y",
+            "r|y",
+            "r|b|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "1,16": {
+        "socketTypes": [
+            "r|b",
+            "b|r|Y",
+            "r|y",
+            "r|b|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "1,17": {
+        "socketTypes": [
+            "r|b",
+            "b|r|y",
+            "r|y",
+            "r|b|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "1,18": {
+        "socketTypes": [
+            "r|b",
+            "b|R|y",
+            "r|y",
+            "r|b|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "1,19": {
+        "socketTypes": [
+            "r|b",
+            "b|R|Y",
+            "r|y",
+            "r|b|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "2,0": {
+        "socketTypes": [
+            "y|r",
+            "r|y|b",
+            "b",
+            "y|r|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "2,1": {
+        "socketTypes": [
+            "y|r",
+            "r|y|b",
+            "r|b",
+            "y|rr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "2,2": {
+        "socketTypes": [
+            "y|r",
+            "r|yy",
+            "r|y",
+            "y|rr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "2,3": {
+        "socketTypes": [
+            "y|b",
+            "b|YY",
+            "r|y",
+            "y|rr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "2,4": {
+        "socketTypes": [
+            "b",
+            "b|y|b",
+            "b",
+            "b|r|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "2,5": {
+        "socketTypes": [
+            "b",
+            "b|y|b",
+            "r|b",
+            "b|rr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "2,6": {
+        "socketTypes": [
+            "b",
+            "b|yy",
+            "r|y",
+            "b|rr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "2,7": {
+        "socketTypes": [
+            "b",
+            "b|YY",
+            "r|y",
+            "b|rr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "2,8": {
+        "socketTypes": [
+            "b",
+            "bb|b",
+            "b",
+            "bb|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "2,9": {
+        "socketTypes": [
+            "b",
+            "bb|b",
+            "r|b",
+            "bb|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "2,10": {
+        "socketTypes": [
+            "b",
+            "bb|b",
+            "r|b",
+            "bb|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "2,11": {
+        "socketTypes": [
+            "y|r",
+            "rr|Y",
+            "r|y",
+            "yy|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "2,12": {
+        "socketTypes": [
+            "y|r",
+            "rr|y",
+            "r|y",
+            "yy|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "2,13": {
+        "socketTypes": [
+            "y|r",
+            "rr|y",
+            "r|y",
+            "yy|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "2,14": {
+        "socketTypes": [
+            "y|r",
+            "rr|y",
+            "r|y",
+            "YY|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "2,15": {
+        "socketTypes": [
+            "y|r",
+            "rr|y",
+            "r|y",
+            "YY|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "2,16": {
+        "socketTypes": [
+            "y|r",
+            "RR|y",
+            "r|y",
+            "YY|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "2,17": {
+        "socketTypes": [
+            "y|r",
+            "rr|Y",
+            "r|y",
+            "YY|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "2,18": {
+        "socketTypes": [
+            "y|r",
+            "rr|Y",
+            "r|y",
+            "YY|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "2,19": {
+        "socketTypes": [
+            "y|r",
+            "RR|Y",
+            "r|y",
+            "YY|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "3,0": {
+        "socketTypes": [
+            "y|r",
+            "r|Y|b",
+            "b",
+            "Y|R|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "3,1": {
+        "socketTypes": [
+            "y|r",
+            "r|y|b",
+            "r|b",
+            "y|RR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "3,2": {
+        "socketTypes": [
+            "y|r",
+            "r|YY",
+            "r|y",
+            "Y|RR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "3,3": {
+        "socketTypes": [
+            "y|b",
+            "b|YY",
+            "r|y",
+            "y|RR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "3,4": {
+        "socketTypes": [
+            "b",
+            "b|b|y",
+            "r|y",
+            "bb|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "3,5": {
+        "socketTypes": [
+            "b",
+            "b|y|b",
+            "r|b",
+            "b|RR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "3,6": {
+        "socketTypes": [
+            "b",
+            "b|b|y",
+            "r|y",
+            "bb|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "3,7": {
+        "socketTypes": [
+            "b",
+            "b|YY",
+            "r|y",
+            "b|RR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "3,8": {
+        "socketTypes": [
+            "b",
+            "b|b|Y",
+            "r|y",
+            "bb|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "3,9": {
+        "socketTypes": [
+            "y",
+            "Y|b|y",
+            "r|y",
+            "yy|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "3,10": {
+        "socketTypes": [
+            "y|b",
+            "b|R|Y",
+            "r|y",
+            "YY|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "3,11": {
+        "socketTypes": [
+            "y|b",
+            "b|R|Y",
+            "r|y",
+            "yy|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "3,12": {
+        "socketTypes": [
+            "y|b",
+            "b|R|y",
+            "r|y",
+            "yy|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "3,13": {
+        "socketTypes": [
+            "y|b",
+            "b|R|Y",
+            "r|y",
+            "yy|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "3,14": {
+        "socketTypes": [
+            "y|b",
+            "b|R|y",
+            "r|y",
+            "YY|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "3,15": {
+        "socketTypes": [
+            "y|b",
+            "b|r|y",
+            "r|y",
+            "YY|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "3,16": {
+        "socketTypes": [
+            "y|b",
+            "b|r|y",
+            "r|y",
+            "yy|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "3,17": {
+        "socketTypes": [
+            "y|b",
+            "b|r|Y",
+            "r|y",
+            "yy|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "3,18": {
+        "socketTypes": [
+            "y|b",
+            "b|R|y",
+            "r|y",
+            "yy|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "3,19": {
+        "socketTypes": [
+            "y|b",
+            "b|r|y",
+            "r|y",
+            "yy|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "4,0": {
+        "socketTypes": [
+            "y|r",
+            "r|Y|b",
+            "b",
+            "Y|r|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "4,1": {
+        "socketTypes": [
+            "y|r",
+            "r|Y|b",
+            "r|b",
+            "Y|RR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "4,2": {
+        "socketTypes": [
+            "y|r",
+            "r|YY",
+            "r|y",
+            "Y|rr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "4,3": {
+        "socketTypes": [
+            "y|b",
+            "b|yy",
+            "r|y",
+            "Y|RR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "4,4": {
+        "socketTypes": [
+            "y",
+            "y|b|Y",
+            "r|y",
+            "YY|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "4,5": {
+        "socketTypes": [
+            "y",
+            "y|b|Y",
+            "r|y",
+            "YY|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "4,6": {
+        "socketTypes": [
+            "y",
+            "Y|b|Y",
+            "r|y",
+            "YY|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "4,7": {
+        "socketTypes": [
+            "y",
+            "Y|b|Y",
+            "r|y",
+            "YY|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "4,8": {
+        "socketTypes": [
+            "y",
+            "Y|b|Y",
+            "r|y",
+            "yy|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "4,9": {
+        "socketTypes": [
+            "y",
+            "y|b|Y",
+            "r|y",
+            "yy|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "4,10": {
+        "socketTypes": [
+            "y",
+            "y|b|y",
+            "r|y",
+            "yy|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "4,11": {
+        "socketTypes": [
+            "y|b",
+            "b|R|Y",
+            "r|y",
+            "YY|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "4,12": {
+        "socketTypes": [
+            "y|b",
+            "b|R|y",
+            "r|y",
+            "YY|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "4,13": {
+        "socketTypes": [
+            "y|b",
+            "b|r|y",
+            "r|y",
+            "YY|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "4,14": {
+        "socketTypes": [
+            "y|b",
+            "b|r|Y",
+            "r|y",
+            "YY|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "4,15": {
+        "socketTypes": [
+            "y|b",
+            "b|r|Y",
+            "r|y",
+            "YY|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "4,16": {
+        "socketTypes": [
+            "y|b",
+            "b|r|Y",
+            "r|y",
+            "yy|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "4,17": {
+        "socketTypes": [
+            "y|r",
+            "RR|b",
+            "b",
+            "YY|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "4,18": {
+        "socketTypes": [
+            "y|r",
+            "RR|b",
+            "b",
+            "yy|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "4,19": {
+        "socketTypes": [
+            "y|r",
+            "rr|b",
+            "b",
+            "yy|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "5,0": {
+        "socketTypes": [
+            "y|r",
+            "r|y|b",
+            "b",
+            "Y|r|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "5,1": {
+        "socketTypes": [
+            "y|r",
+            "r|Y|b",
+            "r|b",
+            "Y|rr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "5,2": {
+        "socketTypes": [
+            "y|r",
+            "r|yy",
+            "r|y",
+            "Y|rr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "5,3": {
+        "socketTypes": [
+            "y|b",
+            "b|yy",
+            "r|y",
+            "Y|rr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "5,4": {
+        "socketTypes": [
+            "y",
+            "y|b|Y",
+            "r|y",
+            "yy|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "5,5": {
+        "socketTypes": [
+            "y",
+            "y|b|y",
+            "r|y",
+            "yy|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "5,6": {
+        "socketTypes": [
+            "y",
+            "y|b|y",
+            "r|y",
+            "YY|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "5,7": {
+        "socketTypes": [
+            "y",
+            "Y|b|y",
+            "r|y",
+            "YY|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "5,8": {
+        "socketTypes": [
+            "y",
+            "Y|b|y",
+            "r|y",
+            "yy|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "5,9": {
+        "socketTypes": [
+            "y",
+            "y|b|y",
+            "r|y",
+            "YY|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "5,10": {
+        "socketTypes": [
+            "y",
+            "Y|b|y",
+            "r|y",
+            "YY|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "5,11": {
+        "socketTypes": [
+            "y|r",
+            "rr|y",
+            "r|y",
+            "yy|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "5,12": {
+        "socketTypes": [
+            "y|r",
+            "rr|Y",
+            "r|y",
+            "YY|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "5,13": {
+        "socketTypes": [
+            "y|r",
+            "RR|Y",
+            "r|y",
+            "yy|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "5,14": {
+        "socketTypes": [
+            "y|r",
+            "RR|Y",
+            "r|y",
+            "YY|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "5,15": {
+        "socketTypes": [
+            "y|r",
+            "rr|y",
+            "r|y",
+            "yy|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "5,16": {
+        "socketTypes": [
+            "y|r",
+            "rr|y",
+            "r|y",
+            "YY|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "5,17": {
+        "socketTypes": [
+            "y|r",
+            "rr|Y",
+            "r|y",
+            "yy|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "5,18": {
+        "socketTypes": [
+            "y|r",
+            "RR|y",
+            "r|y",
+            "YY|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "5,19": {
+        "socketTypes": [
+            "y|r",
+            "RR|Y",
+            "r|y",
+            "YY|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "6,0": {
+        "socketTypes": [
+            "y|r",
+            "R|Y|b",
+            "b",
+            "Y|R|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "6,1": {
+        "socketTypes": [
+            "y|r",
+            "r|y|b",
+            "r|b",
+            "Y|rr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "6,2": {
+        "socketTypes": [
+            "y|r",
+            "R|YY",
+            "r|y",
+            "Y|RR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "6,3": {
+        "socketTypes": [
+            "y|b",
+            "b|YY",
+            "r|y",
+            "Y|rr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "6,4": {
+        "socketTypes": [
+            "b",
+            "b|b|Y",
+            "r|y",
+            "bb|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "6,5": {
+        "socketTypes": [
+            "r|b",
+            "b|R|Y",
+            "r|y",
+            "R|b|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "6,6": {
+        "socketTypes": [
+            "r|b",
+            "b|r|y",
+            "r|y",
+            "R|b|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "6,7": {
+        "socketTypes": [
+            "r|b",
+            "b|R|y",
+            "r|y",
+            "R|b|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "6,8": {
+        "socketTypes": [
+            "r|b",
+            "b|r|y",
+            "r|y",
+            "R|b|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "6,9": {
+        "socketTypes": [
+            "r|b",
+            "b|r|Y",
+            "r|y",
+            "R|b|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "6,10": {
+        "socketTypes": [
+            "r|b",
+            "b|R|Y",
+            "r|y",
+            "R|b|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "6,11": {
+        "socketTypes": [
+            "r|b",
+            "b|r|Y",
+            "r|y",
+            "R|b|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "6,12": {
+        "socketTypes": [
+            "r|b",
+            "b|R|y",
+            "r|y",
+            "R|b|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "6,13": {
+        "socketTypes": [
+            "y|b",
+            "b|r|b",
+            "r|b",
+            "yy|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "6,14": {
+        "socketTypes": [
+            "y|b",
+            "b|R|b",
+            "r|b",
+            "yy|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "6,15": {
+        "socketTypes": [
+            "y|b",
+            "b|R|b",
+            "r|b",
+            "yy|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "6,16": {
+        "socketTypes": [
+            "y|b",
+            "b|r|b",
+            "r|b",
+            "YY|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "6,17": {
+        "socketTypes": [
+            "y|b",
+            "b|R|b",
+            "r|b",
+            "YY|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "6,18": {
+        "socketTypes": [
+            "y|b",
+            "b|r|b",
+            "r|b",
+            "YY|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "6,19": {
+        "socketTypes": [
+            "y|b",
+            "b|R|b",
+            "r|b",
+            "YY|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "7,0": {
+        "socketTypes": [
+            "y|r",
+            "R|Y|b",
+            "b",
+            "Y|r|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "7,1": {
+        "socketTypes": [
+            "y|r",
+            "r|y|b",
+            "r|b",
+            "Y|RR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "7,2": {
+        "socketTypes": [
+            "y|r",
+            "R|YY",
+            "r|y",
+            "y|rr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "7,3": {
+        "socketTypes": [
+            "y|b",
+            "b|YY",
+            "r|y",
+            "Y|RR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "7,4": {
+        "socketTypes": [
+            "r|b",
+            "b|R|y",
+            "r|y",
+            "r|b|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "7,5": {
+        "socketTypes": [
+            "r|b",
+            "b|R|Y",
+            "r|y",
+            "r|b|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "7,6": {
+        "socketTypes": [
+            "r|b",
+            "b|R|y",
+            "r|y",
+            "r|b|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "7,7": {
+        "socketTypes": [
+            "r|b",
+            "b|R|Y",
+            "r|y",
+            "r|b|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "7,8": {
+        "socketTypes": [
+            "r|b",
+            "b|r|Y",
+            "r|y",
+            "r|b|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "7,9": {
+        "socketTypes": [
+            "r|b",
+            "b|r|Y",
+            "r|y",
+            "r|b|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "7,10": {
+        "socketTypes": [
+            "r|b",
+            "b|r|y",
+            "r|y",
+            "r|b|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "7,11": {
+        "socketTypes": [
+            "r|b",
+            "b|r|y",
+            "r|y",
+            "r|b|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "7,12": {
+        "socketTypes": [
+            "y|b",
+            "b|r|b",
+            "r|b",
+            "yy|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "7,13": {
+        "socketTypes": [
+            "b|r",
+            "rr|b",
+            "r|b",
+            "b|y|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "7,14": {
+        "socketTypes": [
+            "b|r",
+            "RR|b",
+            "r|b",
+            "b|y|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "7,15": {
+        "socketTypes": [
+            "b|r",
+            "RR|b",
+            "r|b",
+            "b|y|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "7,16": {
+        "socketTypes": [
+            "b|r",
+            "rr|b",
+            "r|b",
+            "b|Y|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "7,17": {
+        "socketTypes": [
+            "b|r",
+            "RR|b",
+            "r|b",
+            "b|Y|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "7,18": {
+        "socketTypes": [
+            "b|r",
+            "rr|b",
+            "r|b",
+            "b|Y|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "7,19": {
+        "socketTypes": [
+            "b|r",
+            "RR|b",
+            "r|b",
+            "b|Y|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "8,0": {
+        "socketTypes": [
+            "y|r",
+            "R|y|b",
+            "b",
+            "Y|r|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "8,1": {
+        "socketTypes": [
+            "y|r",
+            "R|Y|b",
+            "r|b",
+            "Y|RR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "8,2": {
+        "socketTypes": [
+            "y|r",
+            "R|yy",
+            "r|y",
+            "Y|rr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "8,3": {
+        "socketTypes": [
+            "y|r",
+            "r|Y|b",
+            "y|b",
+            "y|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "8,4": {
+        "socketTypes": [
+            "y|r",
+            "r|y|b",
+            "y|b",
+            "y|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "8,5": {
+        "socketTypes": [
+            "y|r",
+            "R|Y|b",
+            "y|b",
+            "y|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "8,6": {
+        "socketTypes": [
+            "y|r",
+            "R|y|b",
+            "y|b",
+            "y|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "8,7": {
+        "socketTypes": [
+            "y|r",
+            "r|Y|b",
+            "y|b",
+            "Y|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "8,8": {
+        "socketTypes": [
+            "y|r",
+            "r|y|b",
+            "y|b",
+            "Y|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "8,9": {
+        "socketTypes": [
+            "y|r",
+            "R|Y|b",
+            "y|b",
+            "Y|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "8,10": {
+        "socketTypes": [
+            "y|r",
+            "R|y|b",
+            "y|b",
+            "Y|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "8,11": {
+        "socketTypes": [
+            "y|r",
+            "rr|b",
+            "r|b",
+            "yy|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "8,12": {
+        "socketTypes": [
+            "b|r",
+            "rr|b",
+            "r|b",
+            "b|y|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "8,13": {
+        "socketTypes": [
+            "y|r",
+            "rr|b",
+            "r|b",
+            "yy|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "8,14": {
+        "socketTypes": [
+            "y|r",
+            "RR|b",
+            "r|b",
+            "yy|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "8,15": {
+        "socketTypes": [
+            "y|r",
+            "RR|b",
+            "r|b",
+            "yy|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "8,16": {
+        "socketTypes": [
+            "y|r",
+            "rr|b",
+            "r|b",
+            "YY|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "8,17": {
+        "socketTypes": [
+            "y|r",
+            "RR|b",
+            "r|b",
+            "YY|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "8,18": {
+        "socketTypes": [
+            "y|r",
+            "rr|b",
+            "r|b",
+            "YY|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "8,19": {
+        "socketTypes": [
+            "y|r",
+            "RR|b",
+            "r|b",
+            "YY|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "9,0": {
+        "socketTypes": [
+            "y|r",
+            "R|Y|b",
+            "b",
+            "y|r|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "9,1": {
+        "socketTypes": [
+            "y|r",
+            "R|Y|b",
+            "r|b",
+            "Y|rr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "9,2": {
+        "socketTypes": [
+            "y|r",
+            "R|YY",
+            "r|y",
+            "Y|rr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "9,3": {
+        "socketTypes": [
+            "b",
+            "b|Y|b",
+            "b",
+            "b|R|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "9,4": {
+        "socketTypes": [
+            "b",
+            "b|Y|b",
+            "b",
+            "b|r|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "9,5": {
+        "socketTypes": [
+            "b",
+            "b|y|b",
+            "b",
+            "b|r|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "9,6": {
+        "socketTypes": [
+            "b|r",
+            "R|bb",
+            "b",
+            "b|bb"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "9,7": {
+        "socketTypes": [
+            "b|r",
+            "r|bb",
+            "b",
+            "b|bb"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "9,8": {
+        "socketTypes": [
+            "y|b",
+            "b|bb",
+            "b",
+            "Y|bb"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "9,9": {
+        "socketTypes": [
+            "y|b",
+            "b|bb",
+            "b",
+            "y|bb"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "9,10": {
+        "socketTypes": [
+            "y|r",
+            "r|bb",
+            "b",
+            "y|bb"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "9,11": {
+        "socketTypes": [
+            "b",
+            "b|r|y",
+            "r|y",
+            "b|y|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "9,12": {
+        "socketTypes": [
+            "b",
+            "b|r|y",
+            "r|y",
+            "b|y|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "9,13": {
+        "socketTypes": [
+            "b",
+            "b|r|Y",
+            "r|y",
+            "b|y|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "9,14": {
+        "socketTypes": [
+            "b",
+            "b|r|y",
+            "r|y",
+            "b|Y|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "9,15": {
+        "socketTypes": [
+            "b",
+            "b|r|y",
+            "r|y",
+            "b|Y|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "9,16": {
+        "socketTypes": [
+            "b",
+            "b|r|Y",
+            "r|y",
+            "b|Y|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "9,17": {
+        "socketTypes": [
+            "b",
+            "b|R|y",
+            "r|y",
+            "b|Y|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "9,18": {
+        "socketTypes": [
+            "b",
+            "b|R|y",
+            "r|y",
+            "b|Y|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "9,19": {
+        "socketTypes": [
+            "b",
+            "b|R|Y",
+            "r|y",
+            "b|Y|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "10,0": {
+        "socketTypes": [
+            "y|r",
+            "R|Y|b",
+            "r|b",
+            "y|RR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "10,1": {
+        "socketTypes": [
+            "y|r",
+            "R|y|b",
+            "r|b",
+            "Y|rr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "10,2": {
+        "socketTypes": [
+            "y|r",
+            "R|y|b",
+            "r|b",
+            "y|rr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "10,3": {
+        "socketTypes": [
+            "b",
+            "b|Y|b",
+            "r|b",
+            "b|RR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "10,4": {
+        "socketTypes": [
+            "b",
+            "b|Y|b",
+            "r|b",
+            "b|rr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "10,5": {
+        "socketTypes": [
+            "b",
+            "b|y|b",
+            "r|b",
+            "b|rr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "10,6": {
+        "socketTypes": [
+            "b",
+            "b|y|b",
+            "r|b",
+            "b|RR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "10,7": {
+        "socketTypes": [
+            "y|r",
+            "r|bb",
+            "b",
+            "Y|bb"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "10,8": {
+        "socketTypes": [
+            "y|r",
+            "R|bb",
+            "b",
+            "Y|bb"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "10,9": {
+        "socketTypes": [
+            "y|r",
+            "r|YY",
+            "y",
+            "y|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "10,10": {
+        "socketTypes": [
+            "y|r",
+            "r|yy",
+            "y",
+            "y|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "10,11": {
+        "socketTypes": [
+            "y|r",
+            "R|YY",
+            "y",
+            "y|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "10,12": {
+        "socketTypes": [
+            "y|r",
+            "R|yy",
+            "y",
+            "y|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "10,13": {
+        "socketTypes": [
+            "y|r",
+            "r|YY",
+            "y",
+            "Y|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "10,14": {
+        "socketTypes": [
+            "y|r",
+            "r|yy",
+            "y",
+            "Y|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "10,15": {
+        "socketTypes": [
+            "y|r",
+            "R|YY",
+            "y",
+            "Y|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "10,16": {
+        "socketTypes": [
+            "y|r",
+            "R|yy",
+            "y",
+            "Y|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "10,17": {
+        "socketTypes": [
+            "b",
+            "b|r|b",
+            "b",
+            "b|Y|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "10,18": {
+        "socketTypes": [
+            "b",
+            "b|r|b",
+            "b",
+            "b|y|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "10,19": {
+        "socketTypes": [
+            "b",
+            "b|R|b",
+            "b",
+            "b|Y|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "11,0": {
+        "socketTypes": [
+            "y|r",
+            "R|Y|b",
+            "r|b",
+            "y|rr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "11,1": {
+        "socketTypes": [
+            "y|r",
+            "R|y|b",
+            "r|b",
+            "Y|RR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "11,2": {
+        "socketTypes": [
+            "y|r",
+            "R|y|b",
+            "r|b",
+            "y|RR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "11,3": {
+        "socketTypes": [
+            "b",
+            "b|YY",
+            "r|y",
+            "b|RR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "11,4": {
+        "socketTypes": [
+            "b",
+            "b|YY",
+            "r|y",
+            "b|rr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "11,5": {
+        "socketTypes": [
+            "b",
+            "b|yy",
+            "r|y",
+            "b|rr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "11,8": {
+        "socketTypes": [
+            "r|y",
+            "yyy",
+            "r|y",
+            "rrr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "11,9": {
+        "socketTypes": [
+            "r|y",
+            "YYY",
+            "r|y",
+            "RRR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "11,10": {
+        "socketTypes": [
+            "r|y",
+            "yyy",
+            "r|y",
+            "RRR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "11,11": {
+        "socketTypes": [
+            "y",
+            "YYY",
+            "y",
+            "yyy"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "11,12": {
+        "socketTypes": [
+            "b|r",
+            "rrr",
+            "b|r",
+            "bbb"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "11,13": {
+        "socketTypes": [
+            "b|r",
+            "RRR",
+            "b|r",
+            "bbb"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "11,16": {
+        "socketTypes": [
+            "b|r",
+            "RR|b",
+            "b",
+            "b|y|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "11,17": {
+        "socketTypes": [
+            "b|r",
+            "rr|b",
+            "b",
+            "b|Y|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "11,18": {
+        "socketTypes": [
+            "b|r",
+            "rr|b",
+            "b",
+            "b|y|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "11,19": {
+        "socketTypes": [
+            "b|r",
+            "RR|b",
+            "b",
+            "b|Y|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "12,0": {
+        "socketTypes": [
+            "y|r",
+            "r|Y|b",
+            "y|b",
+            "y|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "12,1": {
+        "socketTypes": [
+            "y|r",
+            "r|y|b",
+            "y|b",
+            "y|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "12,2": {
+        "socketTypes": [
+            "y|r",
+            "R|Y|b",
+            "y|b",
+            "y|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "12,3": {
+        "socketTypes": [
+            "y|r",
+            "R|y|b",
+            "y|b",
+            "y|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "12,4": {
+        "socketTypes": [
+            "y|r",
+            "r|Y|b",
+            "y|b",
+            "Y|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "12,5": {
+        "socketTypes": [
+            "y|r",
+            "r|y|b",
+            "y|b",
+            "Y|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "12,6": {
+        "socketTypes": [
+            "y|r",
+            "R|Y|b",
+            "y|b",
+            "Y|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "12,7": {
+        "socketTypes": [
+            "y|r",
+            "R|y|b",
+            "y|b",
+            "Y|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "12,8": {
+        "socketTypes": [
+            "b",
+            "bbb",
+            "b",
+            "bbb"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "12,9": {
+        "socketTypes": [
+            "y",
+            "yyy",
+            "y",
+            "yyy"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "12,10": {
+        "socketTypes": [
+            "y",
+            "yyy",
+            "y",
+            "YYY"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "12,11": {
+        "socketTypes": [
+            "y",
+            "YYY",
+            "y",
+            "YYY"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "12,12": {
+        "socketTypes": [
+            "b",
+            "b|R|y",
+            "b|y",
+            "b|y|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "12,13": {
+        "socketTypes": [
+            "b",
+            "b|r|y",
+            "b|y",
+            "b|Y|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "12,14": {
+        "socketTypes": [
+            "b",
+            "b|r|y",
+            "b|y",
+            "b|y|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "12,15": {
+        "socketTypes": [
+            "b",
+            "b|R|y",
+            "b|y",
+            "b|Y|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "12,16": {
+        "socketTypes": [
+            "b",
+            "b|R|Y",
+            "b|y",
+            "b|y|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "12,17": {
+        "socketTypes": [
+            "b",
+            "b|r|Y",
+            "b|y",
+            "b|Y|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "12,18": {
+        "socketTypes": [
+            "b",
+            "b|r|Y",
+            "b|y",
+            "b|y|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "12,19": {
+        "socketTypes": [
+            "b",
+            "b|R|Y",
+            "b|y",
+            "b|Y|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "13,0": {
+        "socketTypes": [
+            "y|r",
+            "r|YY",
+            "y",
+            "y|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "13,1": {
+        "socketTypes": [
+            "y|r",
+            "r|yy",
+            "y",
+            "y|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "13,2": {
+        "socketTypes": [
+            "y|r",
+            "R|YY",
+            "y",
+            "y|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "13,3": {
+        "socketTypes": [
+            "y|r",
+            "R|yy",
+            "y",
+            "y|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "13,4": {
+        "socketTypes": [
+            "y|r",
+            "r|YY",
+            "y",
+            "Y|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "13,5": {
+        "socketTypes": [
+            "y|r",
+            "r|yy",
+            "y",
+            "Y|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "13,6": {
+        "socketTypes": [
+            "y|r",
+            "R|YY",
+            "y",
+            "Y|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "13,7": {
+        "socketTypes": [
+            "y|r",
+            "R|yy",
+            "y",
+            "Y|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "13,8": {
+        "socketTypes": [
+            "b",
+            "bbb",
+            "r|b",
+            "bb|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "13,9": {
+        "socketTypes": [
+            "b",
+            "bbb",
+            "r|b",
+            "bb|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "13,10": {
+        "socketTypes": [
+            "r",
+            "rrr",
+            "b|r",
+            "RR|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "13,11": {
+        "socketTypes": [
+            "r",
+            "RRR",
+            "b|r",
+            "RR|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "13,12": {
+        "socketTypes": [
+            "r",
+            "RRR",
+            "b|r",
+            "rr|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "13,13": {
+        "socketTypes": [
+            "r",
+            "rrr",
+            "b|r",
+            "rr|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "13,14": {
+        "socketTypes": [
+            "y|b",
+            "bbb",
+            "b",
+            "Y|bb"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "13,15": {
+        "socketTypes": [
+            "y|b",
+            "bbb",
+            "b",
+            "y|bb"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "13,16": {
+        "socketTypes": [
+            "b|y",
+            "yyy",
+            "y",
+            "b|YY"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "13,17": {
+        "socketTypes": [
+            "b|y",
+            "YYY",
+            "y",
+            "b|YY"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "13,18": {
+        "socketTypes": [
+            "b|y",
+            "YYY",
+            "y",
+            "b|yy"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "13,19": {
+        "socketTypes": [
+            "b|y",
+            "yyy",
+            "y",
+            "b|yy"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "14,0": {
+        "socketTypes": [
+            "b",
+            "b|Y|b",
+            "y|b",
+            "b|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "14,1": {
+        "socketTypes": [
+            "b",
+            "b|y|b",
+            "y|b",
+            "b|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "14,2": {
+        "socketTypes": [
+            "b|r",
+            "r|Y|b",
+            "y|b",
+            "b|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "14,3": {
+        "socketTypes": [
+            "b|r",
+            "r|y|b",
+            "y|b",
+            "b|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "14,4": {
+        "socketTypes": [
+            "b|r",
+            "R|Y|b",
+            "y|b",
+            "b|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "14,5": {
+        "socketTypes": [
+            "b|r",
+            "R|y|b",
+            "y|b",
+            "b|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "14,6": {
+        "socketTypes": [
+            "y|b",
+            "b|Y|b",
+            "y|b",
+            "Y|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "14,7": {
+        "socketTypes": [
+            "y|b",
+            "b|y|b",
+            "y|b",
+            "Y|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "14,8": {
+        "socketTypes": [
+            "y|b",
+            "b|Y|b",
+            "y|b",
+            "y|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "14,9": {
+        "socketTypes": [
+            "y|b",
+            "b|y|b",
+            "y|b",
+            "y|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "14,10": {
+        "socketTypes": [
+            "y|r",
+            "rrr",
+            "y|r",
+            "YYY"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "14,11": {
+        "socketTypes": [
+            "b|y",
+            "Y|bb",
+            "b",
+            "b|y|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "14,12": {
+        "socketTypes": [
+            "y|b",
+            "b|y|b",
+            "y|b",
+            "y|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "14,13": {
+        "socketTypes": [
+            "y",
+            "y|b|y",
+            "b|y",
+            "yy|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "14,14": {
+        "socketTypes": [
+            "y|b",
+            "b|yy",
+            "y",
+            "y|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "14,15": {
+        "socketTypes": [
+            "y|b",
+            "b|y|b",
+            "y|b",
+            "Y|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "14,16": {
+        "socketTypes": [
+            "y",
+            "y|b|y",
+            "b|y",
+            "YY|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "14,17": {
+        "socketTypes": [
+            "y|b",
+            "b|yy",
+            "y",
+            "y|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "14,18": {
+        "socketTypes": [
+            "y|b",
+            "b|Y|b",
+            "y|b",
+            "y|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "14,19": {
+        "socketTypes": [
+            "y|b",
+            "b|y|b",
+            "y|b",
+            "y|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "15,0": {
+        "socketTypes": [
+            "b",
+            "b|YY",
+            "y",
+            "b|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "15,1": {
+        "socketTypes": [
+            "b",
+            "b|yy",
+            "y",
+            "b|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "15,2": {
+        "socketTypes": [
+            "b|r",
+            "R|YY",
+            "y",
+            "b|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "15,3": {
+        "socketTypes": [
+            "b|r",
+            "R|yy",
+            "y",
+            "b|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "15,4": {
+        "socketTypes": [
+            "b|r",
+            "r|YY",
+            "y",
+            "b|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "15,5": {
+        "socketTypes": [
+            "b|r",
+            "r|yy",
+            "y",
+            "b|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "15,6": {
+        "socketTypes": [
+            "y|b",
+            "b|YY",
+            "y",
+            "Y|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "15,7": {
+        "socketTypes": [
+            "y|b",
+            "b|yy",
+            "y",
+            "Y|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "15,8": {
+        "socketTypes": [
+            "y|b",
+            "b|YY",
+            "y",
+            "y|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "15,9": {
+        "socketTypes": [
+            "y|b",
+            "b|yy",
+            "y",
+            "y|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "15,10": {
+        "socketTypes": [
+            "y|r",
+            "RRR",
+            "y|r",
+            "YYY"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "15,11": {
+        "socketTypes": [
+            "y|r",
+            "rrr",
+            "y|r",
+            "yyy"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "15,12": {
+        "socketTypes": [
+            "y|b",
+            "b|Y|b",
+            "y|b",
+            "y|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "15,13": {
+        "socketTypes": [
+            "y",
+            "Y|b|y",
+            "b|y",
+            "YY|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "15,14": {
+        "socketTypes": [
+            "y|b",
+            "b|YY",
+            "y",
+            "y|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "15,15": {
+        "socketTypes": [
+            "y|b",
+            "b|y|b",
+            "y|b",
+            "Y|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "15,16": {
+        "socketTypes": [
+            "y",
+            "y|b|Y",
+            "b|y",
+            "YY|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "15,17": {
+        "socketTypes": [
+            "y|b",
+            "b|yy",
+            "y",
+            "Y|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "15,18": {
+        "socketTypes": [
+            "y",
+            "Y|b|y",
+            "b|y",
+            "yy|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "15,19": {
+        "socketTypes": [
+            "y",
+            "y|b|Y",
+            "b|y",
+            "yy|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "16,0": {
+        "socketTypes": [
+            "b|r",
+            "r|Y|b",
+            "b",
+            "b|R|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "16,1": {
+        "socketTypes": [
+            "b|r",
+            "r|y|b",
+            "b",
+            "b|R|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "16,2": {
+        "socketTypes": [
+            "b|r",
+            "r|Y|b",
+            "b",
+            "b|r|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "16,3": {
+        "socketTypes": [
+            "b|r",
+            "r|y|b",
+            "b",
+            "b|r|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "16,4": {
+        "socketTypes": [
+            "b|r",
+            "R|Y|b",
+            "b",
+            "b|R|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "16,5": {
+        "socketTypes": [
+            "b|r",
+            "R|y|b",
+            "b",
+            "b|R|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "16,6": {
+        "socketTypes": [
+            "b|r",
+            "R|Y|b",
+            "b",
+            "b|r|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "16,7": {
+        "socketTypes": [
+            "b|r",
+            "R|y|b",
+            "b",
+            "b|r|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "16,8": {
+        "socketTypes": [
+            "b",
+            "b|Y|b",
+            "b",
+            "b|R|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "16,9": {
+        "socketTypes": [
+            "b",
+            "b|y|b",
+            "b",
+            "b|R|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "16,10": {
+        "socketTypes": [
+            "b",
+            "b|Y|b",
+            "b",
+            "b|r|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "16,11": {
+        "socketTypes": [
+            "b",
+            "b|y|b",
+            "b",
+            "b|r|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "16,12": {
+        "socketTypes": [
+            "y|b",
+            "b|Y|b",
+            "y|b",
+            "Y|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "16,13": {
+        "socketTypes": [
+            "y",
+            "Y|b|Y",
+            "b|y",
+            "yy|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "16,14": {
+        "socketTypes": [
+            "y|b",
+            "b|YY",
+            "y",
+            "Y|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "16,15": {
+        "socketTypes": [
+            "y|b",
+            "b|Y|b",
+            "y|b",
+            "Y|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "16,16": {
+        "socketTypes": [
+            "y",
+            "Y|b|Y",
+            "b|y",
+            "YY|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "16,17": {
+        "socketTypes": [
+            "y|b",
+            "b|YY",
+            "y",
+            "Y|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "16,18": {
+        "socketTypes": [
+            "y|b",
+            "b|yy",
+            "y",
+            "Y|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "16,19": {
+        "socketTypes": [
+            "y|b",
+            "b|YY",
+            "y",
+            "y|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "17,0": {
+        "socketTypes": [
+            "y|b",
+            "b|Y|b",
+            "r|b",
+            "Y|RR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "17,1": {
+        "socketTypes": [
+            "y|b",
+            "b|Y|b",
+            "r|b",
+            "y|RR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "17,2": {
+        "socketTypes": [
+            "y|b",
+            "b|y|b",
+            "r|b",
+            "y|RR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "17,3": {
+        "socketTypes": [
+            "y|b",
+            "b|y|b",
+            "r|b",
+            "y|rr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "17,4": {
+        "socketTypes": [
+            "y|b",
+            "b|Y|b",
+            "r|b",
+            "y|rr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "17,5": {
+        "socketTypes": [
+            "y|b",
+            "b|y|b",
+            "r|b",
+            "Y|rr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "17,6": {
+        "socketTypes": [
+            "y|b",
+            "b|y|b",
+            "r|b",
+            "Y|RR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "17,7": {
+        "socketTypes": [
+            "y|b",
+            "b|Y|b",
+            "r|b",
+            "Y|rr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "17,8": {
+        "socketTypes": [
+            "b",
+            "b|Y|b",
+            "r|b",
+            "b|RR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "17,9": {
+        "socketTypes": [
+            "b",
+            "b|y|b",
+            "r|b",
+            "b|RR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "17,10": {
+        "socketTypes": [
+            "b",
+            "b|y|b",
+            "r|b",
+            "b|rr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "17,11": {
+        "socketTypes": [
+            "b",
+            "b|Y|b",
+            "r|b",
+            "b|rr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "17,12": {
+        "socketTypes": [
+            "b|y",
+            "y|b|y",
+            "b|y",
+            "b|y|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "17,13": {
+        "socketTypes": [
+            "b",
+            "b|y|b",
+            "y|b",
+            "bb|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "17,14": {
+        "socketTypes": [
+            "b|y",
+            "y|bb",
+            "b",
+            "b|y|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "17,15": {
+        "socketTypes": [
+            "b|y",
+            "y|b|y",
+            "b|y",
+            "b|Y|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "17,16": {
+        "socketTypes": [
+            "b",
+            "b|y|b",
+            "y|b",
+            "bb|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "17,17": {
+        "socketTypes": [
+            "b|y",
+            "y|bb",
+            "b",
+            "b|Y|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "17,18": {
+        "socketTypes": [
+            "b|y",
+            "Y|b|y",
+            "b|y",
+            "b|y|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "17,19": {
+        "socketTypes": [
+            "b|y",
+            "y|b|Y",
+            "b|y",
+            "b|y|B"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "18,0": {
+        "socketTypes": [
+            "y|b",
+            "b|YY",
+            "b|y",
+            "Y|R|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "18,1": {
+        "socketTypes": [
+            "y|b",
+            "b|YY",
+            "b|y",
+            "y|R|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "18,2": {
+        "socketTypes": [
+            "y|b",
+            "b|yy",
+            "b|y",
+            "y|R|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "18,3": {
+        "socketTypes": [
+            "y|b",
+            "b|yy",
+            "b|y",
+            "y|r|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "18,4": {
+        "socketTypes": [
+            "y|b",
+            "b|YY",
+            "b|y",
+            "y|r|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "18,5": {
+        "socketTypes": [
+            "y|b",
+            "b|yy",
+            "b|y",
+            "Y|r|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "18,6": {
+        "socketTypes": [
+            "y|b",
+            "b|yy",
+            "b|y",
+            "Y|R|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "18,7": {
+        "socketTypes": [
+            "y|b",
+            "b|YY",
+            "b|y",
+            "Y|r|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "18,8": {
+        "socketTypes": [
+            "b",
+            "b|YY",
+            "b|y",
+            "b|R|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "18,9": {
+        "socketTypes": [
+            "b",
+            "b|yy",
+            "b|y",
+            "b|R|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "18,10": {
+        "socketTypes": [
+            "b",
+            "b|yy",
+            "b|y",
+            "b|r|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "18,11": {
+        "socketTypes": [
+            "b",
+            "b|YY",
+            "b|y",
+            "b|r|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "18,12": {
+        "socketTypes": [
+            "b|y",
+            "Y|b|Y",
+            "b|y",
+            "b|y|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "18,13": {
+        "socketTypes": [
+            "b|y",
+            "y|b|Y",
+            "b|y",
+            "b|Y|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "18,14": {
+        "socketTypes": [
+            "b|y",
+            "Y|b|Y",
+            "b|y",
+            "b|Y|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "18,15": {
+        "socketTypes": [
+            "b|y",
+            "Y|b|y",
+            "b|y",
+            "b|Y|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "18,16": {
+        "socketTypes": [
+            "b",
+            "b|Y|b",
+            "y|b",
+            "bb|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "18,17": {
+        "socketTypes": [
+            "b|y",
+            "Y|bb",
+            "b",
+            "b|Y|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "18,18": {
+        "socketTypes": [
+            "b",
+            "b|Y|b",
+            "y|b",
+            "bb|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "18,19": {
+        "socketTypes": [
+            "b|y",
+            "Y|b|Y",
+            "b|y",
+            "b|Y|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "19,0": {
+        "socketTypes": [
+            "b",
+            "b|Y|b",
+            "y|b",
+            "b|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "19,1": {
+        "socketTypes": [
+            "b",
+            "b|y|b",
+            "y|b",
+            "b|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "19,2": {
+        "socketTypes": [
+            "b|r",
+            "r|Y|b",
+            "y|b",
+            "b|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "19,3": {
+        "socketTypes": [
+            "b|r",
+            "r|y|b",
+            "y|b",
+            "b|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "19,4": {
+        "socketTypes": [
+            "b|r",
+            "R|Y|b",
+            "y|b",
+            "b|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "19,5": {
+        "socketTypes": [
+            "b|r",
+            "R|y|b",
+            "y|b",
+            "b|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "19,6": {
+        "socketTypes": [
+            "y|b",
+            "b|Y|b",
+            "y|b",
+            "Y|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "19,7": {
+        "socketTypes": [
+            "y|b",
+            "b|y|b",
+            "y|b",
+            "Y|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "19,8": {
+        "socketTypes": [
+            "y|b",
+            "b|Y|b",
+            "y|b",
+            "y|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "19,9": {
+        "socketTypes": [
+            "y|b",
+            "b|y|b",
+            "y|b",
+            "y|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "19,10": {
+        "socketTypes": [
+            "b",
+            "b|yy",
+            "y",
+            "b|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "19,11": {
+        "socketTypes": [
+            "b",
+            "b|YY",
+            "y",
+            "b|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "19,12": {
+        "socketTypes": [
+            "b",
+            "b|YY",
+            "y",
+            "b|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "19,13": {
+        "socketTypes": [
+            "b",
+            "b|yy",
+            "y",
+            "b|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "19,14": {
+        "socketTypes": [
+            "b",
+            "bbb",
+            "b",
+            "bbb"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "19,15": {
+        "socketTypes": [
+            "b",
+            "b|Y|b",
+            "y|b",
+            "b|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "19,16": {
+        "socketTypes": [
+            "b",
+            "b|y|b",
+            "y|b",
+            "b|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "19,17": {
+        "socketTypes": [
+            "b",
+            "b|Y|b",
+            "y|b",
+            "b|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "19,18": {
+        "socketTypes": [
+            "b",
+            "b|y|b",
+            "y|b",
+            "b|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "19,19": {
+        "socketTypes": [
+            "b",
+            "b|b|b",
+            "b",
+            "b|b|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "20,0": {
+        "socketTypes": [
+            "b",
+            "b|YY",
+            "y",
+            "b|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "20,1": {
+        "socketTypes": [
+            "b",
+            "b|yy",
+            "y",
+            "b|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "20,2": {
+        "socketTypes": [
+            "b|r",
+            "R|YY",
+            "y",
+            "b|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "20,3": {
+        "socketTypes": [
+            "b|r",
+            "R|yy",
+            "y",
+            "b|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "20,4": {
+        "socketTypes": [
+            "b|r",
+            "r|YY",
+            "y",
+            "b|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "20,5": {
+        "socketTypes": [
+            "b|r",
+            "r|yy",
+            "y",
+            "b|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "20,6": {
+        "socketTypes": [
+            "y|b",
+            "b|YY",
+            "y",
+            "Y|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "20,7": {
+        "socketTypes": [
+            "y|b",
+            "b|yy",
+            "y",
+            "Y|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "20,8": {
+        "socketTypes": [
+            "y|b",
+            "b|YY",
+            "y",
+            "y|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "20,9": {
+        "socketTypes": [
+            "y|b",
+            "b|yy",
+            "y",
+            "y|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "20,10": {
+        "socketTypes": [
+            "b",
+            "b|b|y",
+            "b|y",
+            "bb|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "20,11": {
+        "socketTypes": [
+            "b",
+            "b|b|Y",
+            "b|y",
+            "bb|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "20,12": {
+        "socketTypes": [
+            "b",
+            "bbb",
+            "b",
+            "bb|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "20,13": {
+        "socketTypes": [
+            "b",
+            "b|b|b",
+            "b",
+            "bb|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "20,14": {
+        "socketTypes": [
+            "b",
+            "bbb",
+            "b",
+            "b|bb"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "20,15": {
+        "socketTypes": [
+            "b",
+            "b|bb",
+            "b",
+            "b|bb"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "20,16": {
+        "socketTypes": [
+            "b",
+            "b|bb",
+            "b",
+            "b|b|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "20,17": {
+        "socketTypes": [
+            "b",
+            "b|b|b",
+            "b",
+            "b|b|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "20,18": {
+        "socketTypes": [
+            "b",
+            "b|b|y",
+            "b|y",
+            "bb|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "20,19": {
+        "socketTypes": [
+            "b",
+            "b|b|Y",
+            "b|y",
+            "bb|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "21,0": {
+        "socketTypes": [
+            "r|y",
+            "yy|b",
+            "r|b",
+            "r|b|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "21,1": {
+        "socketTypes": [
+            "b|y",
+            "y|b|r",
+            "b|r",
+            "b|y|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "21,2": {
+        "socketTypes": [
+            "b|r",
+            "r|bb",
+            "y|b",
+            "bb|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "21,3": {
+        "socketTypes": [
+            "b|r",
+            "r|bb",
+            "y|b",
+            "b|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "21,4": {
+        "socketTypes": [
+            "b|y",
+            "rr|b",
+            "y|b",
+            "b|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "21,5": {
+        "socketTypes": [
+            "b|y",
+            "rr|b",
+            "y|b",
+            "bb|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "21,6": {
+        "socketTypes": [
+            "b|r",
+            "r|b|b",
+            "y|b",
+            "bb|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "21,7": {
+        "socketTypes": [
+            "b|r",
+            "r|b|b",
+            "y|b",
+            "b|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "21,10": {
+        "socketTypes": [
+            "r|y",
+            "rrr",
+            "y|r",
+            "yyy"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "21,11": {
+        "socketTypes": [
+            "y|r",
+            "yyy",
+            "r|y",
+            "rrr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "21,12": {
+        "socketTypes": [
+            "y|r",
+            "rrr",
+            "r|y",
+            "yyy"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "21,13": {
+        "socketTypes": [
+            "r|y",
+            "yyy",
+            "y|r",
+            "rrr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "21,14": {
+        "socketTypes": [
+            "r",
+            "yyy",
+            "y",
+            "yyy"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "21,15": {
+        "socketTypes": [
+            "y",
+            "rrr",
+            "r",
+            "rrr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "21,16": {
+        "socketTypes": [
+            "r",
+            "rrr",
+            "y",
+            "rrr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "21,17": {
+        "socketTypes": [
+            "y",
+            "yyy",
+            "r",
+            "yyy"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "21,18": {
+        "socketTypes": [
+            "r|b",
+            "b|y|b",
+            "r|b",
+            "r|b|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "21,19": {
+        "socketTypes": [
+            "b",
+            "b|y|b",
+            "r|b",
+            "bb|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "22,0": {
+        "socketTypes": [
+            "r",
+            "rrr",
+            "y|r",
+            "yyy"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "22,1": {
+        "socketTypes": [
+            "y",
+            "yyy",
+            "r|y",
+            "rrr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "22,2": {
+        "socketTypes": [
+            "y|r",
+            "rrr",
+            "y",
+            "yyy"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "22,3": {
+        "socketTypes": [
+            "r|y",
+            "yyy",
+            "r",
+            "rrr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "22,4": {
+        "socketTypes": [
+            "r|y",
+            "y|b|y",
+            "y",
+            "rrr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "22,5": {
+        "socketTypes": [
+            "y",
+            "rrr",
+            "y|r",
+            "y|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "22,6": {
+        "socketTypes": [
+            "r|y",
+            "yyy",
+            "y",
+            "yyy"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "22,7": {
+        "socketTypes": [
+            "y|r",
+            "rrr",
+            "r",
+            "rrr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "22,8": {
+        "socketTypes": [
+            "r",
+            "rrr",
+            "r|y",
+            "rrr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "22,9": {
+        "socketTypes": [
+            "y",
+            "yyy",
+            "y|r",
+            "yyy"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "22,10": {
+        "socketTypes": [
+            "r|y",
+            "rrr",
+            "y|r",
+            "yyy"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "22,11": {
+        "socketTypes": [
+            "r|y",
+            "yyy",
+            "y|r",
+            "rrr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "22,12": {
+        "socketTypes": [
+            "r|y",
+            "rr|y",
+            "y",
+            "yyy"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "22,13": {
+        "socketTypes": [
+            "r|b",
+            "b|Y|b",
+            "r|b",
+            "R|b|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "22,14": {
+        "socketTypes": [
+            "b",
+            "b|Y|b",
+            "r|b",
+            "bb|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "22,15": {
+        "socketTypes": [
+            "r|b",
+            "b|y|b",
+            "r|b",
+            "R|b|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "22,16": {
+        "socketTypes": [
+            "b",
+            "b|y|b",
+            "r|b",
+            "bb|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "22,17": {
+        "socketTypes": [
+            "r|b",
+            "b|Y|b",
+            "r|b",
+            "r|b|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "22,18": {
+        "socketTypes": [
+            "b",
+            "b|Y|b",
+            "r|b",
+            "bb|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "22,19": {
+        "socketTypes": [
+            "b",
+            "b|y|b",
+            "r|b",
+            "b|b|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "23,0": {
+        "socketTypes": [
+            "r",
+            "rrr",
+            "b|r",
+            "bbb"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "23,1": {
+        "socketTypes": [
+            "y",
+            "yyy",
+            "b|y",
+            "bbb"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "23,2": {
+        "socketTypes": [
+            "b|r",
+            "rrr",
+            "b",
+            "bbb"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "23,3": {
+        "socketTypes": [
+            "b|y",
+            "yyy",
+            "b",
+            "bbb"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "23,4": {
+        "socketTypes": [
+            "b|y",
+            "y|b|y",
+            "y",
+            "bbb"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "23,5": {
+        "socketTypes": [
+            "y",
+            "bbb",
+            "y|b",
+            "y|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "23,6": {
+        "socketTypes": [
+            "r|b",
+            "bbb",
+            "y|b",
+            "yyy"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "23,7": {
+        "socketTypes": [
+            "y|b",
+            "bbb",
+            "r|b",
+            "rrr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "23,8": {
+        "socketTypes": [
+            "b|r",
+            "rrr",
+            "b|y",
+            "bbb"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "23,9": {
+        "socketTypes": [
+            "b|y",
+            "yyy",
+            "b|r",
+            "bbb"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "23,10": {
+        "socketTypes": [
+            "b",
+            "bbb",
+            "y|b",
+            "yyy"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "23,11": {
+        "socketTypes": [
+            "b",
+            "bbb",
+            "r|b",
+            "rrr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "23,12": {
+        "socketTypes": [
+            "r|b",
+            "bbb",
+            "r",
+            "rrr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "23,13": {
+        "socketTypes": [
+            "y|b",
+            "bbb",
+            "y",
+            "yyy"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "23,14": {
+        "socketTypes": [
+            "b",
+            "b|Y|b",
+            "r|b",
+            "b|b|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "23,15": {
+        "socketTypes": [
+            "r|b",
+            "b|y|b",
+            "r|b",
+            "r|b|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "23,16": {
+        "socketTypes": [
+            "b",
+            "b|y|b",
+            "r|b",
+            "b|b|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "23,17": {
+        "socketTypes": [
+            "r|b",
+            "b|y|b",
+            "r|b",
+            "R|b|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "23,18": {
+        "socketTypes": [
+            "b",
+            "b|Y|b",
+            "r|b",
+            "b|b|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "24,0": {
+        "socketTypes": [
+            "r|y",
+            "yyy",
+            "b|y",
+            "bbb"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "24,1": {
+        "socketTypes": [
+            "y|r",
+            "rrr",
+            "b|r",
+            "bbb"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "24,2": {
+        "socketTypes": [
+            "r",
+            "rrr",
+            "r|b",
+            "rrr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "24,3": {
+        "socketTypes": [
+            "y",
+            "yyy",
+            "y|b",
+            "yyy"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "24,4": {
+        "socketTypes": [
+            "b|y",
+            "yyy",
+            "y",
+            "yyy"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "24,5": {
+        "socketTypes": [
+            "b|r",
+            "rrr",
+            "r",
+            "rrr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "24,6": {
+        "socketTypes": [
+            "r|b",
+            "bbb",
+            "r|y",
+            "rrr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "24,7": {
+        "socketTypes": [
+            "y|b",
+            "bbb",
+            "y|r",
+            "yyy"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "24,8": {
+        "socketTypes": [
+            "r|y",
+            "YYY",
+            "y",
+            "YYY"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "24,9": {
+        "socketTypes": [
+            "y|r",
+            "RRR",
+            "r",
+            "RRR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "24,10": {
+        "socketTypes": [
+            "r",
+            "RRR",
+            "r|y",
+            "RRR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "24,11": {
+        "socketTypes": [
+            "y",
+            "YYY",
+            "y|r",
+            "YYY"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "24,12": {
+        "socketTypes": [
+            "r|y",
+            "RRR",
+            "y|r",
+            "YYY"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "24,13": {
+        "socketTypes": [
+            "r|y",
+            "YYY",
+            "y|r",
+            "RRR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "24,14": {
+        "socketTypes": [
+            "r|y",
+            "RR|Y",
+            "y",
+            "YYY"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "24,15": {
+        "socketTypes": [
+            "r|b",
+            "b|Y|b",
+            "r|b",
+            "r|b|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "24,16": {
+        "socketTypes": [
+            "r|b",
+            "b|Y|b",
+            "r|b",
+            "R|b|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "25,0": {
+        "socketTypes": [
+            "r",
+            "rrr",
+            "y|r",
+            "YYY"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "25,1": {
+        "socketTypes": [
+            "y",
+            "yyy",
+            "r|y",
+            "RRR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "25,2": {
+        "socketTypes": [
+            "y|r",
+            "rrr",
+            "y",
+            "YYY"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "25,3": {
+        "socketTypes": [
+            "r|y",
+            "yyy",
+            "r",
+            "RRR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "25,4": {
+        "socketTypes": [
+            "r|y",
+            "yyy",
+            "y",
+            "YYY"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "25,5": {
+        "socketTypes": [
+            "y|r",
+            "rrr",
+            "r",
+            "RRR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "25,6": {
+        "socketTypes": [
+            "r",
+            "rrr",
+            "r|y",
+            "RRR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "25,7": {
+        "socketTypes": [
+            "y",
+            "yyy",
+            "y|r",
+            "YYY"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "25,8": {
+        "socketTypes": [
+            "r|y",
+            "rrr",
+            "y|r",
+            "YYY"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "25,9": {
+        "socketTypes": [
+            "r|y",
+            "yyy",
+            "y|r",
+            "RRR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "25,10": {
+        "socketTypes": [
+            "r|y",
+            "rr|y",
+            "y",
+            "YYY"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "25,12": {
+        "socketTypes": [
+            "r|y",
+            "RR|y",
+            "y",
+            "YYY"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "25,13": {
+        "socketTypes": [
+            "r|y",
+            "rr|Y",
+            "y",
+            "YYY"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "25,14": {
+        "socketTypes": [
+            "r",
+            "YYY",
+            "y",
+            "yyy"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "25,15": {
+        "socketTypes": [
+            "y",
+            "RRR",
+            "r",
+            "rrr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "25,16": {
+        "socketTypes": [
+            "r",
+            "RRR",
+            "y",
+            "rrr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "25,17": {
+        "socketTypes": [
+            "y",
+            "YYY",
+            "r",
+            "yyy"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "26,0": {
+        "socketTypes": [
+            "r",
+            "RRR",
+            "b|r",
+            "bbb"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "26,1": {
+        "socketTypes": [
+            "y",
+            "YYY",
+            "b|y",
+            "bbb"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "26,2": {
+        "socketTypes": [
+            "b|r",
+            "RRR",
+            "b",
+            "bbb"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "26,3": {
+        "socketTypes": [
+            "b|y",
+            "YYY",
+            "b",
+            "bbb"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "26,4": {
+        "socketTypes": [
+            "b|y",
+            "Y|b|y",
+            "y",
+            "bbb"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "26,5": {
+        "socketTypes": [
+            "y",
+            "bbb",
+            "y|b",
+            "Y|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "26,6": {
+        "socketTypes": [
+            "r|b",
+            "bbb",
+            "y|b",
+            "YYY"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "26,7": {
+        "socketTypes": [
+            "y|b",
+            "bbb",
+            "r|b",
+            "RRR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "26,8": {
+        "socketTypes": [
+            "b|r",
+            "RRR",
+            "b|y",
+            "bbb"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "26,9": {
+        "socketTypes": [
+            "b|y",
+            "YYY",
+            "b|r",
+            "bbb"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "26,10": {
+        "socketTypes": [
+            "r|y",
+            "RRR",
+            "y|r",
+            "YYY"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "26,11": {
+        "socketTypes": [
+            "y|r",
+            "YYY",
+            "r|y",
+            "RRR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "26,12": {
+        "socketTypes": [
+            "y|r",
+            "RRR",
+            "r|y",
+            "YYY"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "26,13": {
+        "socketTypes": [
+            "r|y",
+            "YYY",
+            "y|r",
+            "RRR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "26,14": {
+        "socketTypes": [
+            "r",
+            "YYY",
+            "y",
+            "YYY"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "26,15": {
+        "socketTypes": [
+            "y",
+            "RRR",
+            "r",
+            "RRR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "26,16": {
+        "socketTypes": [
+            "r",
+            "RRR",
+            "y",
+            "RRR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "26,17": {
+        "socketTypes": [
+            "y",
+            "YYY",
+            "r",
+            "YYY"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "27,0": {
+        "socketTypes": [
+            "r|y",
+            "YYY",
+            "b|y",
+            "bbb"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "27,1": {
+        "socketTypes": [
+            "y|r",
+            "RRR",
+            "b|r",
+            "bbb"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "27,2": {
+        "socketTypes": [
+            "r",
+            "rrr",
+            "r|b",
+            "RRR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "27,3": {
+        "socketTypes": [
+            "y",
+            "yyy",
+            "y|b",
+            "YYY"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "27,4": {
+        "socketTypes": [
+            "b|y",
+            "yyy",
+            "y",
+            "YYY"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "27,5": {
+        "socketTypes": [
+            "b|r",
+            "rrr",
+            "r",
+            "RRR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "27,6": {
+        "socketTypes": [
+            "r|b",
+            "bbb",
+            "r|y",
+            "RRR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "27,7": {
+        "socketTypes": [
+            "y|b",
+            "bbb",
+            "y|r",
+            "YYY"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "27,8": {
+        "socketTypes": [
+            "b",
+            "bbb",
+            "y|b",
+            "YYY"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "27,9": {
+        "socketTypes": [
+            "b",
+            "bbb",
+            "r|b",
+            "RRR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "27,10": {
+        "socketTypes": [
+            "r|b",
+            "bbb",
+            "r",
+            "RRR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "27,11": {
+        "socketTypes": [
+            "y|b",
+            "bbb",
+            "y",
+            "YYY"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "27,12": {
+        "socketTypes": [
+            "r|y",
+            "YYY",
+            "y",
+            "yyy"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "27,13": {
+        "socketTypes": [
+            "y|r",
+            "RRR",
+            "r",
+            "rrr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "27,14": {
+        "socketTypes": [
+            "r",
+            "RRR",
+            "r|y",
+            "rrr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "27,15": {
+        "socketTypes": [
+            "y",
+            "YYY",
+            "y|r",
+            "yyy"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "27,16": {
+        "socketTypes": [
+            "r|y",
+            "RRR",
+            "y|r",
+            "yyy"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "27,17": {
+        "socketTypes": [
+            "r|y",
+            "YYY",
+            "y|r",
+            "rrr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "27,18": {
+        "socketTypes": [
+            "r|y",
+            "RR|Y",
+            "y",
+            "yyy"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "27,19": {
+        "socketTypes": [
+            "r|y",
+            "RR|y",
+            "y",
+            "yyy"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "28,0": {
+        "socketTypes": [
+            "r",
+            "RRR",
+            "r|b",
+            "rrr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "28,1": {
+        "socketTypes": [
+            "y",
+            "YYY",
+            "y|b",
+            "yyy"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "28,2": {
+        "socketTypes": [
+            "b|y",
+            "YYY",
+            "y",
+            "yyy"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "28,3": {
+        "socketTypes": [
+            "b|r",
+            "RRR",
+            "r",
+            "rrr"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "28,4": {
+        "socketTypes": [
+            "r",
+            "RRR",
+            "r|b",
+            "RRR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "28,5": {
+        "socketTypes": [
+            "y",
+            "YYY",
+            "y|b",
+            "YYY"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "28,6": {
+        "socketTypes": [
+            "b|y",
+            "YYY",
+            "y",
+            "YYY"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "28,7": {
+        "socketTypes": [
+            "b|r",
+            "RRR",
+            "r",
+            "RRR"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "28,8": {
+        "socketTypes": [
+            "b|y",
+            "Y|b|Y",
+            "y",
+            "bbb"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "28,9": {
+        "socketTypes": [
+            "y",
+            "bbb",
+            "y|b",
+            "Y|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "28,10": {
+        "socketTypes": [
+            "b|y",
+            "y|b|Y",
+            "y",
+            "bbb"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "28,11": {
+        "socketTypes": [
+            "y",
+            "bbb",
+            "y|b",
+            "y|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "28,19": {
+        "socketTypes": [
+            "r|y",
+            "rr|Y",
+            "y",
+            "yyy"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "29,0": {
+        "socketTypes": [
+            "r|y",
+            "yy|b",
+            "r|b",
+            "R|b|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "29,1": {
+        "socketTypes": [
+            "b|y",
+            "y|b|r",
+            "b|r",
+            "b|Y|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "29,2": {
+        "socketTypes": [
+            "b|r",
+            "r|bb",
+            "y|b",
+            "bb|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "29,3": {
+        "socketTypes": [
+            "b|r",
+            "r|bb",
+            "y|b",
+            "b|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "29,4": {
+        "socketTypes": [
+            "b|y",
+            "rr|b",
+            "y|b",
+            "b|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "29,5": {
+        "socketTypes": [
+            "b|y",
+            "rr|b",
+            "y|b",
+            "bb|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "29,6": {
+        "socketTypes": [
+            "b|r",
+            "r|b|b",
+            "y|b",
+            "bb|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "29,7": {
+        "socketTypes": [
+            "b|r",
+            "r|b|b",
+            "y|b",
+            "b|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "29,10": {
+        "socketTypes": [
+            "r|y",
+            "YY|b",
+            "r|b",
+            "r|b|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "29,11": {
+        "socketTypes": [
+            "b|y",
+            "Y|b|R",
+            "b|r",
+            "b|y|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "29,12": {
+        "socketTypes": [
+            "b|r",
+            "R|bb",
+            "y|b",
+            "bb|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "29,13": {
+        "socketTypes": [
+            "b|r",
+            "R|bb",
+            "y|b",
+            "b|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "29,14": {
+        "socketTypes": [
+            "b|y",
+            "RR|b",
+            "y|b",
+            "b|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "29,15": {
+        "socketTypes": [
+            "b|y",
+            "RR|b",
+            "y|b",
+            "bb|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "29,16": {
+        "socketTypes": [
+            "b|r",
+            "R|b|b",
+            "y|b",
+            "bb|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "29,17": {
+        "socketTypes": [
+            "b|r",
+            "R|b|b",
+            "y|b",
+            "b|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "30,0": {
+        "socketTypes": [
+            "r|y",
+            "YY|b",
+            "r|b",
+            "R|b|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "30,1": {
+        "socketTypes": [
+            "b|y",
+            "Y|b|R",
+            "b|r",
+            "b|Y|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "30,2": {
+        "socketTypes": [
+            "b|r",
+            "R|bb",
+            "y|b",
+            "bb|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "30,3": {
+        "socketTypes": [
+            "b|r",
+            "R|bb",
+            "y|b",
+            "b|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "30,4": {
+        "socketTypes": [
+            "b|y",
+            "RR|b",
+            "y|b",
+            "b|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "30,5": {
+        "socketTypes": [
+            "b|y",
+            "RR|b",
+            "y|b",
+            "bb|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "30,6": {
+        "socketTypes": [
+            "b|r",
+            "R|b|b",
+            "y|b",
+            "bb|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "30,7": {
+        "socketTypes": [
+            "b|r",
+            "R|b|b",
+            "y|b",
+            "b|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "30,9": {
+        "socketTypes": [
+            "r|y",
+            "YY|b",
+            "r|b",
+            "r|b|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "30,10": {
+        "socketTypes": [
+            "b|y",
+            "Y|b|r",
+            "b|r",
+            "b|Y|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "30,11": {
+        "socketTypes": [
+            "r|y",
+            "YY|b",
+            "r|b",
+            "R|b|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "30,12": {
+        "socketTypes": [
+            "b|y",
+            "y|b|R",
+            "b|r",
+            "b|Y|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "30,13": {
+        "socketTypes": [
+            "r|y",
+            "yy|b",
+            "r|b",
+            "r|b|R"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "30,14": {
+        "socketTypes": [
+            "b|y",
+            "Y|b|r",
+            "b|r",
+            "b|y|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "30,15": {
+        "socketTypes": [
+            "r|y",
+            "yy|b",
+            "r|b",
+            "R|b|r"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "30,16": {
+        "socketTypes": [
+            "b|y",
+            "y|b|R",
+            "b|r",
+            "b|y|b"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "31,0": {
+        "socketTypes": [
+            "b|r",
+            "rr|b",
+            "y|b",
+            "bb|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "31,1": {
+        "socketTypes": [
+            "b|r",
+            "rr|b",
+            "y|b",
+            "b|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "31,2": {
+        "socketTypes": [
+            "b|r",
+            "rr|b",
+            "y|b",
+            "bb|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "31,3": {
+        "socketTypes": [
+            "b|r",
+            "rr|b",
+            "y|b",
+            "b|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "31,4": {
+        "socketTypes": [
+            "b|r",
+            "rr|b",
+            "y|b",
+            "bb|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "31,5": {
+        "socketTypes": [
+            "b|r",
+            "rr|b",
+            "y|b",
+            "b|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "31,6": {
+        "socketTypes": [
+            "b|r",
+            "rr|b",
+            "y|b",
+            "bb|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "31,7": {
+        "socketTypes": [
+            "b|r",
+            "rr|b",
+            "y|b",
+            "b|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "31,12": {
+        "socketTypes": [
+            "b|r",
+            "RR|b",
+            "y|b",
+            "bb|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "31,13": {
+        "socketTypes": [
+            "b|r",
+            "RR|b",
+            "y|b",
+            "b|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "31,16": {
+        "socketTypes": [
+            "b|r",
+            "RR|b",
+            "y|b",
+            "bb|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "31,17": {
+        "socketTypes": [
+            "b|r",
+            "RR|b",
+            "y|b",
+            "b|b|y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "32,2": {
+        "socketTypes": [
+            "b|r",
+            "RR|b",
+            "y|b",
+            "bb|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "32,3": {
+        "socketTypes": [
+            "b|r",
+            "RR|b",
+            "y|b",
+            "b|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "32,6": {
+        "socketTypes": [
+            "b|r",
+            "RR|b",
+            "y|b",
+            "bb|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    },
+    "32,7": {
+        "socketTypes": [
+            "b|r",
+            "RR|b",
+            "y|b",
+            "b|b|Y"
+        ],
+        "validSocketCombo": [],
+        "validNeighbours": []
+    }
+}
