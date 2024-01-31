@@ -42,7 +42,7 @@ var hitsFlying = false
 
 var stats:Dictionary = {}
 
-#upgrade shit
+#upgrade stuff
 var upgrades = {
 }
 var descriptions = {
